@@ -1,4 +1,4 @@
-To create a Welcome Activity to display messages.
+## To create a Welcome Activity to display messages.
 ## AIM:
 To create a Welcome Activity to display messages using Android Studio.
 
@@ -24,7 +24,7 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 ## activity_main.xml
-
+``` java
 
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
