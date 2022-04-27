@@ -66,8 +66,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+
+
+```
 ## OUTPUT
-![5](https://user-images.githubusercontent.com/78194419/165476611-7de30fd7-8f3b-46e6-9212-a6aa7a1ef497.png)
+![5](https://user-images.githubusercontent.com/78194419/165477057-21fda754-f9d1-4233-a088-693733e05c0b.png)
+
 
 
 
